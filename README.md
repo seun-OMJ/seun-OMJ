@@ -1,8 +1,4 @@
-Here's a draft README file for your GitHub profile, tailored to your resume and showcasing your skills and projects:
-
----
-
-# 👋 Hello, I'm Oluwaseun Omojola  
+# 👋 Hello, I'm Seun Omojola  
 
 🚀 **Software Engineer** | 🌟 Detail-Oriented | 💻 Passionate about Algorithms, Cryptography, and Full-Stack Development  
 
@@ -73,7 +69,10 @@ Engineered real-time instructions for the ATmega640 microcontroller, including P
 - Boosted company growth through detailed product presentations and client engagement.  
 
 ### **Tunik Foods (July 2018 – Aug 2019)**  
-- Coordinated sales schedules, managed transactions, and handled claims in a fast-paced environment.  
+- Coordinated sales schedules, managed transactions, and handled claims in a fast-paced environment.
+
+
+_Among many other projects on my GitHub_
 
 ---
 
