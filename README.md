@@ -53,7 +53,9 @@ Implemented AES encryption for secure text communication, suitable for cryptocur
 Authored a research survey exploring innovative solutions to the Bounded Knapsack problem, analyzing space-time tradeoffs.  
 
 ### 🔹 **ATmega640 Programming (C, Linux)**  
-Engineered real-time instructions for the ATmega640 microcontroller, including PWMing, device communications, and FSMs.  
+Engineered real-time instructions for the ATmega640 microcontroller, including PWMing, device communications, and FSMs. 
+
+_Among many other projects on my GitHub_
 
 ---
 
