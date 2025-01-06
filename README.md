@@ -64,15 +64,7 @@ _Among many other projects on my GitHub_
 ### **Freelance Software Developer (Sept 2021 – Present)**  
 - Created software solutions using Java, Python, React, and PostgreSQL.  
 - Tested and debugged programs while contributing to open-source projects.  
-- Integrated third-party software components and adhered to Agile practices.  
-
-### **Weather Tech Heating and Cooling Inc. (Dec 2021 – Present)**  
-- Delivered excellent customer service by advising clients on tailored solutions.  
-- Boosted company growth through detailed product presentations and client engagement.  
-
-### **Tunik Foods (July 2018 – Aug 2019)**  
-- Coordinated sales schedules, managed transactions, and handled claims in a fast-paced environment.
-
+- Integrated third-party software components and adhered to Agile practices.
 
 _Among many other projects on my GitHub_
 
