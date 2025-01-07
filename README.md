@@ -65,7 +65,7 @@ Explore more on my [GitHub repositories](https://github.com/seun-OMJ).
 ## 🌐 Where to Find Me  
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/oluwaseun-omojola">
+  <a href="https://www.linkedin.com/in/oluwaseun-omojola-5436b7193/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:omojolaos@gmail.com">
